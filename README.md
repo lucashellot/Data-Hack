@@ -1,0 +1,3 @@
+The purpose of this project was to evaluate the correlation between minimum wage and public assistance, analyze the correlation between minimum wage, poverty, and unemployment rates, and assess the cost burden per citizen on public assistance in relation to the rise of minimum wage. I worked with a team of six to accomplish this, and this serves as a display of my contribution. 
+Prerequisites: To run these files, RStudio or an equivalent version must be installed.  
+Using R, I cleaned the master CalFresh file (downloaded from the state website), sorting by different characteristics. I then used these CSVs as my basis for various data-visualization scripts that I presented.
